@@ -1,4 +1,4 @@
-# Assalamu Alaikum, I'm Maryam Adamu 👋
+# Assalamu Alaikum, I'm Maryam Balarabe Adamu 👋
 
 ### 💻 Software Engineering Student • Frontend Developer in Progress • Islamic Artist
 
