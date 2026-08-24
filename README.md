@@ -92,3 +92,11 @@ I love combining faith, creativity, and technology into meaningful experiences.
 ---
 
 > *"Code with excellence. Create with purpose."* 🌿
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arfaaah/Arfaaah/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arfaaah/Arfaaah/output/github-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Arfaaah/Arfaaah/output/github-snake.svg" />
+</picture>
